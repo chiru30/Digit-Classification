@@ -1,5 +1,5 @@
 # Handwritten Digit Classification
-**a convolutional neural network for handwritten digit classification**
+**A convolutional neural network which identifies handwritten digit and classifies it to the particular digit.**
 
 ## OUTPUT
 <p align="left"> 
